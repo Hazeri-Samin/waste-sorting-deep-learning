@@ -1,7 +1,9 @@
 # Garbage-Classification
 
 **Data Mining and Machine Learning**
+
 **Instructor**: Dr. Roberto Souza
+
 **Students**: Samin Hazeri , Saba Soghrati, Reyhaneh Farahmand, Sajad Sarlaki
 
 **Description of the Assignment**
